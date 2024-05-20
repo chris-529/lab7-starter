@@ -1,3 +1,3 @@
 # Lab 7 - Starter
 
-Christopher Schrader, Thanh, Arjun Kohli
+Christopher Schrader, Arjun Kohli
